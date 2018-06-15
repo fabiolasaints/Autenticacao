@@ -1,0 +1,14 @@
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\bin\Debug\netcoreapp2.1\Autenticacao.deps.json
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\bin\Debug\netcoreapp2.1\Autenticacao.runtimeconfig.json
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\bin\Debug\netcoreapp2.1\Autenticacao.runtimeconfig.dev.json
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\bin\Debug\netcoreapp2.1\Autenticacao.dll
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\bin\Debug\netcoreapp2.1\Autenticacao.pdb
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.csprojAssemblyReference.cache
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.csproj.CoreCompileInputs.cache
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.RazorAssemblyInfo.cache
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.RazorAssemblyInfo.cs
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.AssemblyInfoInputs.cache
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.AssemblyInfo.cs
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.RazorTargetAssemblyInfo.cache
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.dll
+C:\Users\sfabi\repositorio\API_Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.pdb
