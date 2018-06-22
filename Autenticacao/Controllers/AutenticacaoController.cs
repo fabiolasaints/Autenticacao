@@ -27,15 +27,16 @@ namespace Autenticacao.Controllers
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody] Usuarios usuario )
+        public IActionResult Post([FromBody] Usuarios usuario )
         {
 if (usuario.Usuario=="Fabiola"&&usuario.Senha=="123")
 {
     return Ok("Autenticado");    
+
     
 }
 
-
+return NotFound();
         }
 
         // PUT api/values/5
